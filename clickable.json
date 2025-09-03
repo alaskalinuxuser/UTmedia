@@ -1,4 +1,5 @@
 {
-  "template": "pure",
+  "clickable_minimum_required": "8.4",
+  "build": "pure",
   "kill": "webapp-container"
 }
